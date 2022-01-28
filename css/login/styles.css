@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
-
+/*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
+@media screen and (min-width: 1024px){
+    /*Style*/
+    }
+    
+/*###Tablet(medium)###*/
+@media screen and (min-width : 768px) and (max-width : 1023px){
+    /*Style*/
+    }
+    
+/*### Smartphones (portrait and landscape)(small)### */
+@media screen and (min-width : 0px) and (max-width : 767px){
+    /*Style*/
+    .wrapper {
+        min-width: 100%;
+        min-height: 100%;
+        margin: 80px auto;
+        padding: 40px 30px 30px 30px;
+        background-color: #ecf0f3;
+        border-radius: 15px;
+        box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff
+    }
+    }
 * {
     margin: 0;
     padding: 0;
@@ -92,9 +114,9 @@ body {
     color: #03e534
 }
 
-@media(max-width: 380px) {
+/* @media(max-width: 380px) {
     .wrapper {
         margin: 30px 20px;
         padding: 40px 15px 15px 15px
     }
-}
+} */
