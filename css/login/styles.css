@@ -10,7 +10,7 @@
     }
     
 /*### Smartphones (portrait and landscape)(small)### */
-@media screen and (min-width : 0px) and (max-width : 767px){
+@media screen and (min-width : 0px) and (max-width : 450px){
     /*Style*/
     .wrapper {
         min-width: 100%;
