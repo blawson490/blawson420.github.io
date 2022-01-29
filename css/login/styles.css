@@ -84,7 +84,7 @@ body {
     box-shadow: inset 8px 8px 8px #cbced1, inset 8px 8px 8px #fff;
 }
 
-.wrapper .form-field input:focus-visible{
+.wrapper .form-field input:focus{
 
     outline: none;
     box-shadow: 0px 0px 10px #03e534;
