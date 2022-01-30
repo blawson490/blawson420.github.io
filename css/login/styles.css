@@ -33,6 +33,9 @@ body {
     background: #ecf0f3
 }
 
+p {
+    text-align: center;
+}
 .wrapper {
     max-width: 350px;
     min-height: 500px;
