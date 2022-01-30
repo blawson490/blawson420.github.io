@@ -112,10 +112,10 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
 }
 #header .socials{
+  font-size: 24px;
   margin: 0;
   padding: 0;
-  text-align: center;
-  color: #fff;
+  font-weight: 600;
   -moz-text-align-last: center;
   text-align-last: center;
   font-family: "Poppins", sans-serif;
